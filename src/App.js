@@ -8,15 +8,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Adicione o Finn no seus contatos, e envie o código disponível no campo de mensagem do seu whatsApp.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://api.whatsapp.com/send?phone=+14155238886&text=join found-differ"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Adicionar no Whats app
         </a>
       </header>
     </div>
